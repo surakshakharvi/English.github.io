@@ -1,0 +1,119 @@
+body {
+    background-color: powderblue;
+}
+h1 {
+    color: blue;
+
+}
+h2 {
+color:purple;
+font-size: 25px;
+font-family: sans-serif;
+}
+p {
+    display:block;
+    margin-top: lem;
+    margin-bottom: lem;
+    margin-left: 0;
+    margin-right: 0;
+    color: red;
+    font-size:15px;
+}
+p1 {
+    color:brown;
+    font-size:25px;
+}
+.container .box h1{
+    font-size:47px;
+}
+.box0 {
+    float:right;
+    background-color: lightgray;
+    position: relative;right:95px; top:18px;
+    width:200px;
+    border:5px solid black;
+    padding: 50px;
+    margin: 20px;
+}
+.box1 {
+    background-color: lightgray;
+    position: relative;left:95px; top:9px;
+    width:200px;
+    border:5px solid black;
+    padding: 50px;
+    margin: 20px;
+}
+.box2 {
+    float: right;
+    background-color: lightgray;
+    position: relative; right:95px;top:25px;
+    width:200px;
+    border:5px solid black;
+    padding: 50px;
+    margin: 20px;
+}
+.box3 {
+    background-color: lightgray;
+    position: relative; left:95px;top:9px;
+    width:200px;
+    border:5px solid black;
+    padding: 50px;
+    margin: 20px;
+}
+.box4 {
+    float:right;
+    background-color: lightgray;
+    position: relative; right:95px;top:25px;
+    width:200px;
+    border:5px solid black;
+    padding: 50px;
+    margin: 20px;
+}
+.box5 {
+    background-color: lightgray;
+    position: relative; left:95px; top:9px;
+    width:200px;
+    border:5px solid black;
+    padding: 50px;
+    margin: 20px;
+}
+.box6 {
+    float: right;
+    background-color: lightgray;
+    position: relative; right:95px;top:25px;
+    width:200px;
+    border:5px solid black;
+    padding: 50px;
+    margin: 20px;
+}
+.box7 {
+    background-color: lightgray;
+    position: relative; left:95px;top:9px;
+    width:200px;
+    border:5px solid black;
+    padding: 50px;
+    margin: 20px;
+}
+.box8 {
+    float: right;
+    background-color: lightgray;
+    position: relative; right:95px;top:26px;
+    width:200px;
+    border:5px solid black;
+    padding: 50px;
+    margin: 20px;
+}
+.box9 {
+    background-color: lightgray;
+    position: relative; left:95px;top:12px;
+    width:200px;
+    border:5px solid black;
+    padding: 50px;
+    margin: 20px;
+}
+.box img{
+        width:400px;
+        border:5px solid black;
+        padding: 0px;
+        margin: auto;
+    }
